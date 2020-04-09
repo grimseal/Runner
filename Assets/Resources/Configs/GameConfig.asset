@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8a5e54e1be724e4f8218e31dde17627, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  chunkGraphLength: 10
+  chunkGraphWidth: 3
+  startSpeed: 3
+  speedMultiplier: 0.001
+  speedLimit: 10
+  character: {fileID: 9212679779567606587, guid: 19e5cf08738c1344685d71d64526b02a,
+    type: 3}

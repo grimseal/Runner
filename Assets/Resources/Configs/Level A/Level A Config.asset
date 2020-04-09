@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96a0833477334b3b8119502529547b45, type: 3}
+  m_Name: Level A Config
+  m_EditorClassIdentifier: 
+  floors:
+  - {fileID: 11400000, guid: eb5ea721ac01eb947b9c1daf9390d48b, type: 2}
+  - {fileID: 11400000, guid: 1ad13326817b96b40893307d32bfedd6, type: 2}
+  - {fileID: 11400000, guid: 40d7cccdbcc451d4aa42a910810df93c, type: 2}
+  walls:
+  - {fileID: 11400000, guid: 86d46f59e93d2c8419c45a6714afa7e2, type: 2}
+  - {fileID: 11400000, guid: 43ff9e82697a812449922a174ab312cc, type: 2}
+  obstacles:
+  - {fileID: 11400000, guid: 0bea90b78e7c4bc45b220624dce7465d, type: 2}
+  - {fileID: 11400000, guid: 440fc2b175074ec4686fae38839b9c0b, type: 2}
+  items:
+  - {fileID: 11400000, guid: 6dc2fc9e941418d45a3c3753f167537d, type: 2}
+  - {fileID: 11400000, guid: 72a2abe3ad7b88743b2520dd020ad2f9, type: 2}
